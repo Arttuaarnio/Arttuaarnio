@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arttu</h1>
-<h3 align="center">Passionate about AI, new technologies, and software architectures. Experienced in Python, Java, and web development. Open to collaborating on innovative projects to apply and improve my skills, learn something new, share knowledge and grow as a developer.</h3>
+<h3 align="center">Passionate about exploring new technologies and architectures, especially with AI. Hands-on experience with Python, Java, and web development. Open to collaborating on innovative projects to apply and improve my skills, learn something new, share knowledge and grow as a developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
