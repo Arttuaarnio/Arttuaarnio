@@ -3,7 +3,7 @@
 <h3 align="left">📍 Helsinki, Finland 🇫🇮</h3>
 
 <p align="left">
-  I like tech. 3rd-year dev-student who writes code and occasionally breaks it. Mostly just trying to build things that work and are actually interesting. 
+  I like tech. 3rd-year dev-student. 
 </p>
 
 <p align="left">
